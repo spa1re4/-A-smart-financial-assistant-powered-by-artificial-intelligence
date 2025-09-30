@@ -121,4 +121,10 @@ Implementation Stages
 9.Pilot Version Implementation
 
 10.Maintenance and Development
+
+
+
+
+![image alt](https://github.com/spa1re4/-A-smart-financial-assistant-powered-by-artificial-intelligence/blob/223c5c68ffac2111dd20654d98dfcee4e6de63ff/Untitled%20diagram%20_%20Mermaid%20Chart-2025-09-30-054740.png)
+
 ```
